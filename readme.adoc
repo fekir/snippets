@@ -1,0 +1,7 @@
+= Snippets
+
+A collection of snippets.
+
+There is no build system, unit test and whatsoever.
+
+Some might compile only with certain compilers and compilers flag, other might be usable only in certain situations.
